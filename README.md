@@ -122,3 +122,4 @@ examples/input.srt
 examples/input_upscaled.mp4
 examples/input_upscaled_final.mp4 → renamed to output.mp4
 ```
+>>>>>>> 41985dd (Initial commit: LIVEUS AI Upscaler pipeline)
