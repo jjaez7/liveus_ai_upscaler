@@ -176,5 +176,5 @@ Whisper
 OpenAI GPT-4
 Real-ESRGAN
 FFmpeg
-
+@@absolutely necessary to check the version!!!
 Created with jjaez7
