@@ -1,3 +1,4 @@
+![LOGO](logo.png)
 # 🎤 LIVEUS AI Upscaler
 
 > AI-Powered Subtitle + Translation + 4K Upscaling Pipeline for Concert Videos
