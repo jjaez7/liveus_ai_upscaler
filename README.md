@@ -158,11 +158,11 @@ Add voice-to-voice dubbing with ElevenLabs
 Batch processing support
 
 ## Contributing
-Pull requests welcome! Especially for:
-More language support
-UX enhancements
-GPU optimization
-Lee Ju Won
+- Pull requests welcome! Especially for:
+- More language support
+- UX enhancements
+- GPU optimization
+- Lee Ju Won
 
 ## License
 This project: MIT License
