@@ -163,7 +163,7 @@ Batch processing support
 - UX enhancements
 - GPU optimization
 - Lee Ju Won
-
+- Ju Woo Jin
 ## License
 This project: MIT License
 Whisper: Apache 2.0
