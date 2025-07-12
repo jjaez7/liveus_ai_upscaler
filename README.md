@@ -49,7 +49,7 @@ This pipeline automates everything using advanced AI.
 
 [input.mp4]
 ↓
-[1. Whisper] → Japanese transcript (segments)
+[1. Whisper] → Korean transcript (segments)
 ↓
 [2. GPT-4] → Emotionally translated English
 ↓
